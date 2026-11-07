@@ -1,0 +1,10 @@
+[package]
+name = "fiqh-rs-salah-solar-angles"
+version = "1.0.0"
+edition = "2021"
+description = "High-Precision Astronomical Prayer Times Calculator"
+authors = ["Mahmoud ElNemer <sultanelnemer@gmail.com>"]
+
+[[bin]]
+name = "fiqh_rs_salah_solar_angles"
+path = "main.rs"
